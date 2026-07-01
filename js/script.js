@@ -1,6 +1,6 @@
 console.log("Hello world!");
 
-const myName = "jonas Schmedtman";
+const myName = "Jonas Schmedtmann";
 const h1 = document.querySelector(".heading-primary");
 console.log(myName);
 console.log(h1);
@@ -28,30 +28,30 @@ btnNavEl.addEventListener("click", function () {
 });
 
 ///////////////////////////////////////////////////////////
-// Smooth Scrolling animation
+// Smooth scrolling animation
+
 const allLinks = document.querySelectorAll("a:link");
 
 allLinks.forEach(function (link) {
-  Link.addEventListener("click", function (e) {
+  link.addEventListener("click", function (e) {
     e.preventDefault();
     const href = link.getAttribute("href");
 
-    // Scroll  back to top
+    // Scroll back to top
     if (href === "#")
       window.scrollTo({
         top: 0,
         behavior: "smooth",
       });
 
-    //Scroll to other links
-
+    // Scroll to other links
     if (href !== "#" && href.startsWith("#")) {
       const sectionEl = document.querySelector(href);
       sectionEl.scrollIntoView({ behavior: "smooth" });
     }
 
-    // Close mobile navigation
-    if (Link.classList.contains("main-nav-link"))
+    // Close mobile naviagtion
+    if (link.classList.contains("main-nav-link"))
       headerEl.classList.toggle("nav-open");
   });
 });
@@ -79,7 +79,7 @@ const obs = new IntersectionObserver(
     root: null,
     threshold: 0,
     rootMargin: "-80px",
-  },
+  }
 );
 obs.observe(sectionHeroEl);
 
