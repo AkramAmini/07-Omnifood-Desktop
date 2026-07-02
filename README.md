@@ -1,5 +1,4 @@
 #  Omnifood - AI-Powered Food Subscription
-
 A premium, multi-section landing page built from scratch during Jonas Schmedtmann's Advanced Web Design course. This project showcases deep understanding of advanced CSS architecture, layout techniques, and design principles.
 
 ##  Features
@@ -17,4 +16,6 @@ A premium, multi-section landing page built from scratch during Jonas Schmedtman
 <p align="center">
   <img src="https://github.com/user-attachments/assets/31247383-cc1d-4650-8a0f-3bfa2ed793c9" width="600" alt="Project Preview" />
 </p>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6dde9495-5f20-4707-857c-c4b10250a3d4" width="400" alt="Omnifood Screenshot" />
+</p>
