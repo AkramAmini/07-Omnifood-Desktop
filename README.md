@@ -1,1 +1,17 @@
-Live URL: http://omnifood-amini.netlify.app/
+#  Omnifood - AI-Powered Food Subscription
+
+A premium, multi-section landing page built from scratch during Jonas Schmedtmann's Advanced Web Design course. This project showcases deep understanding of advanced CSS architecture, layout techniques, and design principles.
+
+##  Features
+- **Fluid Layouts:** Mastered using **CSS Grid** and **Flexbox** for complex structural designs.
+- **Perfect Lighthouse Score:** Highly optimized for performance, accessibility, and SEO.
+- **Fluid Typography & Colors:** Implemented professional design systems for website personalities.
+- **100% Responsive:** Custom media queries tailored for all devices (Mobile, Tablet, Desktop).
+
+##  Tech Stack
+- **HTML5** (Advanced semantic structure)
+- **CSS3** (CSS Grid, Flexbox, Advanced Animations, Media Queries)
+- **Design Principles:** Typography hierarchy, spacing systems, and visual hierarchy.
+
+##  Preview
+
