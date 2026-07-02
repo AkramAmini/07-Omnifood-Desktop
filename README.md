@@ -14,4 +14,7 @@ A premium, multi-section landing page built from scratch during Jonas Schmedtman
 - **Design Principles:** Typography hierarchy, spacing systems, and visual hierarchy.
 
 ##  Preview
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31247383-cc1d-4650-8a0f-3bfa2ed793c9" width="600" alt="Project Preview" />
+</p>
 
