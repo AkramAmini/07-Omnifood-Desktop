@@ -13,7 +13,7 @@ A premium, multi-section landing page built from scratch during Jonas Schmedtman
 - **Design Principles:** Typography hierarchy, spacing systems, and visual hierarchy.
 
 ##  Live Demo
- [View Live Demo](https://000/)
+ [View Live Demo](http://omnifood-amini.netlify.app//)
 
 ##  Preview
 <p align="center">
