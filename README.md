@@ -15,7 +15,7 @@ A premium, multi-section landing page built from scratch during Jonas Schmedtman
 ##  Live Demo
  [View Live Demo](http://omnifood-amini.netlify.app//)
 
-##  Preview
+##  Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/31247383-cc1d-4650-8a0f-3bfa2ed793c9" width="600" alt="Project Preview" />
 </p>
